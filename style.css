@@ -1,0 +1,32 @@
+/* .fb{
+    margin-left: 45px;
+}
+.insta{
+    margin-left: 45px;
+}
+.wp{
+    margin-left: 45px;
+}
+.lk{
+    margin-left: 90px;
+}
+.final{
+    margin-left: 50px;
+}
+.last{
+    margin-left: 456px;
+}
+.design{
+    color: rgb(12, 12, 114);
+    font-weight: bolder;
+}
+.contact{
+    margin-left: 60px;
+} */
+
+.card-image{
+    object-fit: fill;
+}
+.carousel-item > img{
+    height: 400px;
+}
